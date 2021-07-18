@@ -1,4 +1,4 @@
-package com.intro.intro;
+package com.intro.intro.spring.basic;
 
 import org.springframework.stereotype.Component;
 
